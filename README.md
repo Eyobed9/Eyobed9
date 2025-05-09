@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate Full stack developer with experience in React and Django. I love tackling complex problems and learning new skills to create innovative solutions.
+I'm a Full stack developer with experience in React and Django.
 
 - 🌱 Currently learning: Advanced django
 - 🔭 Working on: Influmeet webapp
