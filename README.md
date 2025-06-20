@@ -4,8 +4,8 @@
 
 I'm a Full stack developer with experience in React and Django.
 
-- 🌱 Currently learning: Advanced django
-- 🔭 Working on: Influmeet webapp
+- 🌱 Currently learning: Advanced django and react
+- 🔭 Working on: ALX projects
 - 🌍 Languages: English, Amharic, python, c++, java, java Script
 - 📫 How to reach me: eyobedteshome@gmail.com
 
