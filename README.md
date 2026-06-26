@@ -80,7 +80,7 @@ I'm a detail-oriented **Software Engineer** focused on **front-end development**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eyobed9&theme=tokyonight" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eyobed9&theme=tokyonight" alt="GitHub Streak" /> -->
 </p>
 
 ---
