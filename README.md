@@ -46,11 +46,6 @@ I'm a **Full-Stack Software Engineer** who builds web and mobile products end to
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📫_Email-eyobedteshome%40gmail.com-6c63ff?style=flat-square" alt="Email badge"/>
-  <img src="https://img.shields.io/badge/🟢_Status-Open_to_freelance_%26_long--term_work-2ea44f?style=flat-square" alt="Availability badge"/>
-</p>
-
 <p align="right"><a href="#top">↑ top</a></p>
 
 <a name="experience"></a>
