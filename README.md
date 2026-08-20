@@ -120,70 +120,6 @@ Currently exploring **Machine Learning, Artificial Intelligence, and AI-powered 
 
 ---
 
-## 📂 Selected Projects
-
-### Yaayyoo Woreda Website — IDATA Technologies
-Official portal for the Yaayyoo Woreda administration in Illu Abbaa Boor, Oromia, covering public services, news, investment, and tourism for the Yaayuu coffee forest biosphere reserve. Trilingual in **Afan Oromo, Amharic, and English**.
-
-**Next.js · TypeScript · Tailwind CSS**
-
-### Ethiopian Volleyball Federation Management System — IDATA Technologies
-Federation administration platform handling team and athlete registration, tournament scheduling, and match and event coordination for the national volleyball body.
-
-**React · TypeScript · REST APIs**
-
-### Oromia Smart Agriculture Platform — IDATA Technologies
-Agricultural big data platform built with Ethio Telecom and the Agricultural Transformation Institute, providing visibility into production and market movement across the value chain.
-
-**React · TypeScript · Data Visualization**
-
-### EtCom — Ethiopian E-Commerce Platform
-A responsive e-commerce platform with product listings, shopping cart, and checkout, optimized for performance and adapted to the local market.
-
-**Next.js · JavaScript · Tailwind CSS**
-
-### AASTU Clinic Web App
-A full-stack clinic management system with patient registration, appointment scheduling, and data visualization, built on secure CRUD APIs and a relational database.
-
-**React · PHP · MySQL**
-
-### Rebel Rover Travel Website
-A team-built travel booking site with destination browsing, search results, and booking pages. Deployed on Vercel with a responsive, interactive UI.
-
-**React · TypeScript · ShadCN UI · Axios**
-
-### Smart Parking System
-A web-based smart parking management system with real-time slot availability, booking, and automated space allocation for efficient urban parking.
-
-**Next.js · TypeScript · Tailwind CSS**
-
-### EtLearn
-A cross-platform mobile learning application built with Flutter, providing interactive educational content, course management, and progress tracking for Ethiopian students.
-
-**Flutter · Dart · Firebase**
-
-### GDG RippleUp
-A hackathon service-booking platform with loyalty rewards, community features, and booking management, built collaboratively with API integration.
-
-**React · JavaScript · REST APIs**
-
-### HealthHub Backend
-Backend services for a hospital management platform covering patients, appointments, and medical records, with database models, business logic, and validation.
-
-**Python · Django · PostgreSQL**
-
-### FreeCodeCamp React Projects
-A set of React builds including a Markdown converter, quote generator, and calculator, focused on reusable components and responsive layouts.
-
-**React · JavaScript · CSS**
-
-### BAS Digital Health — TenaLink
-Personal portfolio, blog, and appointment booking platform for the CEO of TenaLink, featuring service highlights, content publishing, and integrated scheduling.
-
-**Next.js · TypeScript · Tailwind CSS**
-
----
-
 ## 🎓 Certifications
 
 - **CS50’s Web Programming with Python and JavaScript** — Harvard University (edX), Aug 2023
@@ -207,15 +143,16 @@ Personal portfolio, blog, and appointment booking platform for the CEO of TenaLi
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eyobed9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyobed9&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eyobed9&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eyobed9&theme=tokyonight" alt="GitHub Streak" /> -->
 </p>
 
 <p align="center"><i>Open to frontend and full-stack freelance builds, and long-term product work. Let's build something useful.</i></p>
+
+
