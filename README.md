@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  <a href="#about">🧭 About</a> &nbsp;·&nbsp;
-  <a href="#experience">💼 Experience</a> &nbsp;·&nbsp;
-  <a href="#skills">🛠️ Skills</a> &nbsp;·&nbsp;
-  <a href="#certifications">📜 Certifications</a> &nbsp;·&nbsp;
-  <a href="#stats">📊 Stats</a> &nbsp;·&nbsp;
-  <a href="#contact">📬 Contact</a>
+  <a href="#about"><img src="https://img.shields.io/badge/🧭_About-6c63ff?style=for-the-badge&logoColor=white"/></a>
+  <a href="#experience"><img src="https://img.shields.io/badge/💼_Experience-6c63ff?style=for-the-badge&logoColor=white"/></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/🛠️_Skills-6c63ff?style=for-the-badge&logoColor=white"/></a>
+  <a href="#certifications"><img src="https://img.shields.io/badge/📜_Certifications-6c63ff?style=for-the-badge&logoColor=white"/></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/📊_Stats-6c63ff?style=for-the-badge&logoColor=white"/></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/📬_Contact-6c63ff?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 <a name="about"></a>
