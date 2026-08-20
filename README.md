@@ -32,7 +32,7 @@ I'm a **Full-Stack Software Engineer** who builds web and mobile products end to
 <td valign="top" width="50%">
 
 **Right now**
-- 💼 Full-Stack Web Developer @ **TenaLink** (remote)
+- 💼 Full-Stack Web Developer @ **TenaLink** (remote contract)
 - ✅ Wrapped a frontend internship @ **IDATA Technologies**
 - 🎓 B.Sc. Computer Software Engineering @ AASTU · exp. 2027
 
@@ -41,9 +41,7 @@ I'm a **Full-Stack Software Engineer** who builds web and mobile products end to
 
 **What drives me**
 - ✨ Clean code, accessible UI, maintainable architecture
-- 📱 Cross-platform apps with Flutter & Dart
-- 🤖 Exploring Machine Learning & AI-powered products
-
+- 📱 Cross-platform web apps with Modern frontend and backend technologies
 </td>
 </tr>
 </table>
