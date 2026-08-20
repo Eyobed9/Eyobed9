@@ -70,7 +70,7 @@ I'm a **Full-Stack Software Engineer** who builds web and mobile products end to
   <a href="https://react.dev"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>
   <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/></a>
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
-  <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
+  <a href="https://nestjs.com"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
 </p>
 
 **🏢 IDATA Technologies** — Frontend Developer Intern
@@ -181,13 +181,13 @@ Biblical studies, theology, pastoral care & counseling, church leadership & admi
   <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Eyobed9&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Eyobed9&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Eyobed9&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 <p align="right"><a href="#top">↑ top</a></p>
 
