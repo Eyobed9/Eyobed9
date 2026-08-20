@@ -23,7 +23,6 @@ I'm a **Full-Stack Software Engineer** who builds web and mobile products end to
 - 🎓 **BA in Pastoral Leadership** from *Hanania Theological College*, 2024–2026
 - 🛠️ Experienced across UI/UX, frontend architecture, REST APIs, relational databases, testing, and deployment tooling
 - 📱 Building cross-platform applications with **Flutter and Dart**
-- 🤖 Exploring **Machine Learning and Artificial Intelligence**
 - 🌱 Driven by clean code, accessible interfaces, maintainable architecture, and solving real-world problems
 - 📫 Reach me at **eyobedteshome@gmail.com**
 
