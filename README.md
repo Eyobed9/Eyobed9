@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyobed Demissie</h1>
-<h3 align="center">Full-Stack Software Engineer — based in Addis Ababa, Ethiopia 🇪🇹</h3>
+<h3 align="center">Full-Stack Software Engineer - based in Addis Ababa, Ethiopia 🇪🇹</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Building+with+React%2C+Next.js+%26+TypeScript;Mobile+apps+with+Flutter;Backend+with+Python%2C+Django+%26+Nest.js;Building+products+end+to+end" alt="Typing SVG" />
