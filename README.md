@@ -10,7 +10,7 @@
   <a href="mailto:eyobedteshome@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Eyobed9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/eyobed-d-249634230"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Eyobed9&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" alt="Profile views"/>
+  <a href="https://eyobeddemissie.pro.et"><img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
@@ -193,6 +193,7 @@ Biblical studies, theology, pastoral care & counseling, church leadership & admi
   <a href="mailto:eyobedteshome@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Eyobed9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/eyobed-d-249634230"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://eyobeddemissie.pro.et"><img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center"><i>Open to frontend and full-stack freelance builds, and long-term product work. Let's build something useful. ✨</i></p>
